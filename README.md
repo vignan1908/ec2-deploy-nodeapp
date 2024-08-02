@@ -35,6 +35,8 @@ npm run start
 ssh -i instance.pem ubunutu@<IP_ADDRESS>
 ```
 
+![Screenshot (41)](https://github.com/user-attachments/assets/c20e8bd8-6cf3-4f37-b703-f8751bdca506)
+
 ### Configuring Ubuntu on remote VM
 
 1. Updating the outdated packages and dependencies
@@ -66,7 +68,10 @@ SECRET_KEY=""
 npm install
 npm run start
 ```
+![Uploading Screenshot (42).png…]()
 
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
+
+
 
 ### Project is deployed on AWS 🎉
