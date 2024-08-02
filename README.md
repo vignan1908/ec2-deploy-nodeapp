@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+https://github.com/vignan1908/ec2-deploy-nodeapp.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
